@@ -4,6 +4,8 @@
 
 ### 1. Installation
 
+#### Welcome to my Node.js Starter Project, a robust foundation for building web applications using Express.js. This project is designed to streamline your development process, providing a solid starting point for creating powerful and scalable web applications.
+
 Create a database for your project.
 Set the database name in the .env file as follows:
 DATABASE_URL="mysql://root:password@localhost:3306/yourdbname?schema=public"
