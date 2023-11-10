@@ -1,5 +1,5 @@
 {
-  "name": "manavsehgal",
+  "name": "express-basic-starter-project",
   "version": "1.0.0",
   "prisma": {
     "seed": "ts-node prisma/seed.ts"
@@ -31,7 +31,11 @@
     "typescript": "^4.9.5"
   },
   "keywords": [],
-  "author": "Manav Sehgal",
+  "author": {
+    "name": "Manav Sehgal",
+    "email": "manavsehgal77@gmail.com",
+    "url": "https://github.com/manavsehgal9876/"
+  },
   "license": "ISC",
   "description": ""
 }
